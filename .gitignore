@@ -50,3 +50,6 @@ scratch/
 test_fresh.py
 test_list_2.py
 test_replacements.py
+
+# Salesforce local metadata
+.sf/
